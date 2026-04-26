@@ -24,30 +24,24 @@ DevOps and Cloud Engineer with hands-on experience in Linux system administratio
 
 ## 🛠️ Tech Stack
 
-**Cloud & DevOps**
-- AWS (EC2, S3, IAM, VPC, lamda, EKS, ...) <!-- replace/add services you actually used -->
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, IAM, VPC, Lambda, EKS)
 - Docker & Kubernetes
-- Jenkins 
-- ArgoCD
-
-**Backend**
-- Node.js (Express)
-- REST APIs
-
-**Tools**
-- Git & GitHub
-- Linux (RHCSA-level knowledge)
-- Bash scripting
-- Docker
-- Kubernetes
-- ArgoCD
 - Jenkins
+- ArgoCD
 - Ansible
 - Nginx
-- html - css -js
-- NodeJs
-- CCNA
+- CI/CD & GitOps
 
+### 💻 Backend & Systems
+- Node.js (Express)
+- REST APIs
+- Linux Administration (RHCSA-level)
+- Bash Scripting
+- Networking (CCNA knowledge)
+- Git & GitHub
+- Frontend basics (HTML, CSS, JavaScript)
+- Java / Python / Go (basic deployment projects)
 
 ---
 
@@ -75,13 +69,14 @@ DevOps and Cloud Engineer with hands-on experience in Linux system administratio
 
 ---
 
-### Collection of simple projects avaliable for who study devops to deploy and test
+### 🧪 DevOps Practice Projects Collection
+Collection of small applications used for CI/CD, containerization, and deployment practice.
 
-🔗 Repo: [Java Maven App](https://github.com/ahmed-kabil/java-app-maven)
-🔗 Repo: [Java Gradle App](https://github.com/ahmed-kabil/java-app-gradle)
-🔗 Repo: [NodeJs App](https://github.com/ahmed-kabil/nodeJS-app)
-🔗 Repo: [FastApi Python App](https://github.com/ahmed-kabil/python-app-fastapi)
-🔗 Repo: [Go App](https://github.com/ahmed-kabil/go-app)
+🔗 Java Maven App: https://github.com/ahmed-kabil/java-app-maven  
+🔗 Java Gradle App: https://github.com/ahmed-kabil/java-app-gradle  
+🔗 Node.js App: https://github.com/ahmed-kabil/nodeJS-app  
+🔗 FastAPI App: https://github.com/ahmed-kabil/python-app-fastapi  
+🔗 Go App: https://github.com/ahmed-kabil/go-app
 
 ---
 
