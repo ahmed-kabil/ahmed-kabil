@@ -1,11 +1,16 @@
 ![AWS](https://img.shields.io/badge/AWS-Architect-orange)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-purple)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black)
 # Hi, I'm Ahmed 👋
 
 🎓 AWS Certified Solutions Architect  
-💻 Backend Developer (Node.js)  
-⚙️ DevOps Enthusiast  
+⚙️ DevOps Engineer with strong Node.js development skills  
+🐧 Linux System Administration (RHCSA-level knowledge)  
 
 ---
 
@@ -31,7 +36,8 @@ DevOps and Cloud Engineer with hands-on experience in Linux system administratio
 - ArgoCD
 - Ansible
 - Nginx
-- CI/CD & GitOps
+- CI/CD
+- GitOps
 
 ### 💻 Backend & Systems
 - Node.js (Express)
