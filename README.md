@@ -6,7 +6,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-purple)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-black)
-# Hi, I'm Ahmed 👋
+# Hi, I'm Ahmed Kabil 👋
 
 🎓 AWS Certified Solutions Architect  
 ⚙️ DevOps Engineer with strong Node.js development skills  
