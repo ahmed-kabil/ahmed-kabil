@@ -64,7 +64,7 @@ DevOps and Cloud Engineer with hands-on experience in Linux system administratio
 
 ---
 
-### Micro Service Project
+### MicroService Project
 > building the backend and deploying the whole project on kubernetes
 
 - Prometheus integration
