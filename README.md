@@ -71,7 +71,7 @@ DevOps and Cloud Engineer with hands-on experience in Linux system administratio
 - core service
 - metric-servo service
 
-🔗 Repo: [the project](https://github.com/ahmed-kabil/GP_Backend_micro_services)
+🔗 Repo: [Project Repo](https://github.com/ahmed-kabil/GP_Backend_micro_services)
 
 ---
 ### Graduation Project
