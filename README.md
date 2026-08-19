@@ -18,7 +18,7 @@
 
 DevOps and Cloud Engineer with hands-on experience in Linux system administration, CI/CD pipelines, and containerized environments using Docker, skilled in automating workflows with Jenkins and deploying scalable, reliable, and secure infrastructure on AWS, Familiar with backend development using Node.js and JavaScript,  solid understanding of frontend technologies, and a strong foundation in networking.
 
-🔹 Focused on: AWS, Kubernetes, CI/CD, and backend systems  
+🔹 Focused on: AWS, GCP, Kubernetes, CI/CD, and backend systems  
 🔹 Passionate about building real-world projects, not just demos  
 🔹 Currently improving my cloud architecture and devops mentality  
 
